@@ -1,4 +1,4 @@
-# Liquid-level-switch-with-IR-level-sensor
+# Liquid-level-switch-with-IR-liquid-level-sensor
 This repo shows, how to build a liquid level switch by using an IR level sensor.
 
 An IR liquid level sensor works similar to an IR light barrier, with a transparent plastic hood. When the sensor comes into contact with liquid, the refraction at the interface changes, and with it the strength of the reflected IR beam. It can detect almost any liquid type, oil or water based, and is suitable for harsh environments.
