@@ -1,7 +1,8 @@
 # Liquid-level-switch-with-IR-level-sensor
 This repo shows, how to build a liquid level switch by using an IR level sensor.
 
-An IR level sensor works similar to an IR light barrier, with a transparent plastic hood. When the sensor comes into contact with liquid, the refraction at the interface changes, and with it the strength of the reflected IR beam. The advantage of this sensor is the high accuracy, usually ±2mm, and the robustness, and of course the low price. The disadvantage is that it can only measure at onr point, but not continuously. 
+An IR liquid level sensor works similar to an IR light barrier, with a transparent plastic hood. When the sensor comes into contact with liquid, the refraction at the interface changes, and with it the strength of the reflected IR beam. It can detect almost any liquid type, oil or water based, and is suitable for harsh environments.
+The advantage of this sensor is the high accuracy, usually ±1mm, and the robustness, and of course the low price. The disadvantage is that it can only measure at onr point, but not continuously.
 
 ![functionality](https://user-images.githubusercontent.com/13086712/149655507-c1d05e1d-40a1-48ab-b45c-3c87add3886c.jpg)
  
@@ -12,3 +13,4 @@ The circuit of the level switch is quite simple. The output signal at pin2 of th
 
 Schematic
 
+![O1CN01kIo1AF1vNmlV769mU_!!645606161](https://user-images.githubusercontent.com/13086712/149656416-9ef60c28-80cb-46a7-bdeb-2a7fc0aacf0c.jpg)
